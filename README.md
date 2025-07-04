@@ -139,5 +139,5 @@ Possible future improvements for this project include:
 * **Handling Imbalance:** Investigate techniques like oversampling (SMOTE) or undersampling to manage the class imbalance more explicitly.
 
 ## 📧 Author
-* **Abhishek Waduge** - [GitHub Profile](https://github.com/sankethaabhishek) | [LinkedIn Profile](https://www.linkedin.com/in/sankethaabhishekbiz)
+* **Sanketha Abhishek Waduge** - [GitHub Profile](https://github.com/sankethaabhishek) | [LinkedIn Profile](https://www.linkedin.com/in/sankethaabhishekbiz)
 Hit me up for any questions!
